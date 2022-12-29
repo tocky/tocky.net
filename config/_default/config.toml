@@ -1,2 +1,5 @@
-baseURL = "https://tocky.net/"
-languageCode = "en-us"
+defaultContentLanguage = "ja"
+disqusShortname = "tocky-net"
+
+[permalinks]
+    posts = "/:year/:month/:filename/"

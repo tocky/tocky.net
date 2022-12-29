@@ -1,4 +1,24 @@
-colorScheme = "congo"
+colorScheme = "slate"
+defaultAppearance = "light"
+enableSearch = true
+enableCodeCopy = true
+
+[footer]
+    showAppearanceSwitcher = true
 
 [homepage]
     layout = "profile"
+
+[article]
+    showAuthor = false
+    showBreadcrumbs = true
+    showEdit = true
+    showReadingTime = false
+    showTableOfContents = true
+    showTaxonomies = true
+    showComments = true
+
+[list]
+    showBreadcrumbs = true
+    showTableOfContents = true
+    showTaxonomies = true

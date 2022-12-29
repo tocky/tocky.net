@@ -1,1 +1,13 @@
-title = "tocky.net (ja)"
+languageCode = "ja"
+languageName = "日本語"
+displayName = "🇯🇵"
+title = "tocky.net"
+
+[author]
+name = "Shin Tokiwa"
+image = "images/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+    { twitter = "https://twitter.com/tocky816" }
+]

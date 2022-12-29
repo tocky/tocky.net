@@ -1,4 +1,7 @@
-title = "tocky.net (en)"
+languageCode = "en"
+languageName = "English"
+displayName = "🇺🇸"
+title = "tocky.net"
 
 [author]
 name = "Shin Tokiwa"
