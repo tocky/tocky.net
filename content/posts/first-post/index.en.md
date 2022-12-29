@@ -1,7 +1,6 @@
 ---
 title: "First Post"
 date: 2022-12-29T12:43:50+09:00
-draft: true
 ---
 
 # content/posts/first-post/index.md
