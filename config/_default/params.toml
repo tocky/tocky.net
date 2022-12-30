@@ -3,6 +3,9 @@ defaultAppearance = "light"
 enableSearch = true
 enableCodeCopy = true
 
+[header]
+    logo = "images/evergreen.png"
+
 [footer]
     showAppearanceSwitcher = true
 
