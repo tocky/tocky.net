@@ -4,10 +4,6 @@
     weight = 10
 
 [[main]]
-    name = "Topics"
-    pageRef = "topics"
-    weight = 20
-
-[[footer]]
-    name = "Privacy"
-    url = "https://external-link"
+    name = "Profile"
+    pageRef = "profile"
+    weight = 30
