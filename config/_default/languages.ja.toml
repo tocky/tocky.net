@@ -9,5 +9,9 @@ image = "images/author.jpg"
 headline = "A generally awesome human"
 bio = "A little bit about me"
 links = [
-    { twitter = "https://twitter.com/tocky816" }
+    # { twitter = "https://twitter.com/tocky816" },
+    # { instagram = "https://instagram.com/tocky" },
+    # { facebook = "https://fb.com/tocky" },
+    # { linkedin = "https://www.linkedin.com/in/tocky/" },
+    { github = "https://github.com/tocky" },
 ]
