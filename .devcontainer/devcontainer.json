@@ -6,7 +6,11 @@
 	"image": "mcr.microsoft.com/devcontainers/go:0-1.19",
 	"features": {
 		"ghcr.io/devcontainers/features/hugo:1": {}
-	}
+	},
+	"extensions": [
+		"budparr.language-hugo-vscode",
+		"bungcip.better-toml"
+	]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
