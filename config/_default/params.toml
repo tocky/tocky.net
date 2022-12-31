@@ -4,7 +4,7 @@ enableSearch = true
 enableCodeCopy = true
 
 [header]
-    logo = "images/evergreen.png"
+    logo = "images/logo.png"
 
 [footer]
     showAppearanceSwitcher = true
