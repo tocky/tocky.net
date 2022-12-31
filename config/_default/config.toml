@@ -1,5 +1,8 @@
 defaultContentLanguage = "ja"
 disqusShortname = "tocky-net"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [permalinks]
     posts = "/:year/:month/:filename/"
