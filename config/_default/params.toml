@@ -19,7 +19,7 @@ enableCodeCopy = true
     showReadingTime = false
     showTableOfContents = true
     showTaxonomies = true
-    showComments = true
+    showComments = false
 
 [list]
     showBreadcrumbs = true
