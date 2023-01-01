@@ -3,6 +3,9 @@ defaultAppearance = "light"
 enableSearch = true
 enableCodeCopy = true
 
+# User defined CSS
+customCss = ["css/user.css"]
+
 [header]
     logo = "images/logo.png"
 
