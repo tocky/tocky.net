@@ -1,5 +1,5 @@
-colorScheme = "slate"
-defaultAppearance = "light"
+colorScheme = "ocean"
+defaultAppearance = "dark"
 enableSearch = true
 enableCodeCopy = true
 
