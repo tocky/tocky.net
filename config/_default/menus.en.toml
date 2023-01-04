@@ -4,8 +4,8 @@
     weight = 10
 
 [[main]]
-    name = "Profile"
-    pageRef = "profile"
+    name = "About"
+    pageRef = "about"
     weight = 30
 
 [[footer]]
