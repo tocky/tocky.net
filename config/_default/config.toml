@@ -5,4 +5,4 @@ disqusShortname = "tocky-net"
     home = ["HTML", "RSS", "JSON"]
 
 [permalinks]
-    posts = "/:year/:month/:filename/"
+    posts = "/:year/:month/:slugorfilename/"
