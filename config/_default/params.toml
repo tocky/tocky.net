@@ -18,7 +18,8 @@ customCss = ["css/user.css"]
 [article]
     showAuthor = false
     showBreadcrumbs = true
-    showEdit = true
+    showEdit = false
+    editURL = "https://github.com/tocky/tocky.net/tree/main/content/"
     showReadingTime = false
     showTableOfContents = true
     showTaxonomies = true
