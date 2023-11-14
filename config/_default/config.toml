@@ -6,3 +6,14 @@ disqusShortname = "tocky-net"
 
 [permalinks]
     posts = "/:year/:month/:slugorfilename/"
+
+
+[languages]
+    [languages.en]
+        [languages.en.params]
+            displayName = "🇺🇸"
+            description = "Technology, software, development, cloud, and everything else I'm interested in"
+    [languages.ja]
+        [languages.ja.params]
+            displayName = "🇯🇵"
+            description = "テクノロジー、ソフトウェア、開発、クラウドなど私が興味のあることすべて"

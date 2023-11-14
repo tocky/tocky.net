@@ -1,8 +1,6 @@
 languageCode = "en"
 languageName = "English"
-displayName = "🇺🇸"
 title = "tocky.net"
-description = "Technology, software, development, cloud, and everything else I'm interested in"
 copyright = "&copy; tocky.net"
 
 [author]
