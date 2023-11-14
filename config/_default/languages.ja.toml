@@ -3,16 +3,15 @@ languageName = "日本語"
 title = "tocky.net"
 copyright = "&copy; tocky.net"
 
-[params]
-    [params.author]
-        name = "Shin Tokiwa"
-        image = "images/author.jpg"
-        headline = "A developer who love technologies"
-        bio = "A little bit about me"
-        links = [
-            # { twitter = "https://twitter.com/tocky816" },
-            # { instagram = "https://instagram.com/tocky" },
-            # { facebook = "https://fb.com/tocky" },
-            # { linkedin = "https://www.linkedin.com/in/tocky/" },
-            { github = "https://github.com/tocky" },
-        ]
+[author]
+    name = "Shin Tokiwa"
+    image = "images/author.jpg"
+    headline = "A developer who love technologies"
+    bio = "A little bit about me"
+    links = [
+        # { twitter = "https://twitter.com/tocky816" },
+        # { instagram = "https://instagram.com/tocky" },
+        # { facebook = "https://fb.com/tocky" },
+        # { linkedin = "https://www.linkedin.com/in/tocky/" },
+        { github = "https://github.com/tocky" },
+    ]

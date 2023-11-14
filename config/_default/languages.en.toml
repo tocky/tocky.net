@@ -3,8 +3,7 @@ languageName = "English"
 title = "tocky.net"
 copyright = "&copy; tocky.net"
 
-[params]
-    [params.author]
+[author]
     name = "Shin Tokiwa"
     image = "images/author.jpg"
     headline = "A developer who love technologies"
