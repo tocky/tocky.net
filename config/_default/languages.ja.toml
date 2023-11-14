@@ -1,8 +1,6 @@
 languageCode = "ja"
 languageName = "日本語"
-displayName = "🇯🇵"
 title = "tocky.net"
-description = "テクノロジー、ソフトウェア、開発、クラウドなど私が興味のあることすべて"
 copyright = "&copy; tocky.net"
 
 [author]
