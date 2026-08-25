@@ -1,9 +1,9 @@
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 title = "tocky.net"
 copyright = "&copy; tocky.net"
 
-[author]
+[params.author]
     name = "Shin Tokiwa"
     image = "images/author.jpg"
     headline = "A developer who love technologies"
