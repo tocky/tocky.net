@@ -6,8 +6,8 @@ copyright = "&copy; tocky.net"
 [params.author]
     name = "Shin Tokiwa"
     image = "images/author.jpg"
-    headline = "A developer who love technologies"
-    bio = "A little bit about me"
+    headline = "A developer who loves technology"
+    bio = "CEO of ZEALOT Inc. Writing about the cloud, web development, and running a software company."
     links = [
         # { twitter = "https://twitter.com/tocky816" },
         # { instagram = "https://instagram.com/tocky" },
